@@ -38,8 +38,8 @@ This project demonstrates basic Python programming concepts and backend logic im
 ```text
 DecodeLabs-Internship/
 │
-├── todo.py
-└── README.md
+├──README.md 
+└──todo.py
 ```
 ---
 
