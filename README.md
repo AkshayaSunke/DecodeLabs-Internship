@@ -16,7 +16,7 @@ This project demonstrates basic Python programming concepts and backend logic im
 - Search tasks by name
 - Generate unique task IDs
 - Simple and beginner-friendly interface
-- 
+ 
 ---
 ## Technologies Used
 - Python
